@@ -9,7 +9,9 @@ body {
 	height: 50vh;
 	grid-template-columns: repeat(4, 1fr);
 	grid-template-rows: repeat(1, 1fr);
-	/* justify-items: stretch; */
+	/*	justify-items: stretch; /* strech horizontaly */
+	/*	align-items: start; /* stretch verticaly */
+	place-items: start stretch; /* both first align then justify */
 }
 
 .header {
