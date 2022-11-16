@@ -45,18 +45,18 @@
 
 ### Keywords & Functions:
 
-- [] repeat
-- [] fr
-- [] minmax
-- [] auto-fit
-- [] auto-fill
-- [] min-content
-- [] max-content
+- [x] repeat
+- [x] fr
+- [x] minmax
+- [x] auto-fit
+- [x] auto-fill
+- [x] min-content
+- [x] max-content
 
 ## SCSS:
 
-- [] Variables
-- [] Nesting
+- [x] Variables
+- [x] Nesting
 - [] Mixins
 - [] Extend
 - [] Responsive Mixins
