@@ -35,10 +35,10 @@
 - [x] place-items
 - [x] justify-content
 - [x] align-content
-- [] place-content
-- [] justify-self
-- [] align-self
-- [] place-self
+- [x] place-content
+- [x] justify-self
+- [x] align-self
+- [x] place-self
 - [] grid-auto-rows
 - [] grid-auto-flow
 - [] grid-auto-columns
