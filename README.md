@@ -30,11 +30,11 @@
 - [x] grid-column
 - [x] grid-row
 - [x] grid-template
-- [] justify-items
-- [] align-items
-- [] place-items
-- [] justify-content
-- [] align-content
+- [x] justify-items
+- [x] align-items
+- [x] place-items
+- [x] justify-content
+- [x] align-content
 - [] place-content
 - [] justify-self
 - [] align-self
