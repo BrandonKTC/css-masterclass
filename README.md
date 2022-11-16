@@ -17,19 +17,19 @@
 
 ## Grid:
 
-- [] grid-template-columns
-- [] grid-template-rows
-- [] column-gap
-- [] row-gap
-- [] gap
-- [] grid-template-areas
-- [] grid-column-start
-- [] grid-column-end
-- [] grid-row-start
-- [] grid-row-end
-- [] grid-column
-- [] grid-row
-- [] grid-template
+- [x] grid-template-columns
+- [x] grid-template-rows
+- [x] column-gap
+- [x] row-gap
+- [x] gap
+- [x] grid-template-areas
+- [x] grid-column-start
+- [x] grid-column-end
+- [x] grid-row-start
+- [x] grid-row-end
+- [x] grid-column
+- [x] grid-row
+- [x] grid-template
 - [] justify-items
 - [] align-items
 - [] place-items
